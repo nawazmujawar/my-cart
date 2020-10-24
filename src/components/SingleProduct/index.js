@@ -3,7 +3,7 @@ import React from "react";
 import { useParams } from "react-router-dom";
 import myProducts from "../../data/products.json";
 import { useStateValue } from "../StateProvider";
-import { Container } from "@material-ui/core";
+import "./style.css";
 
 function SingleProduct(props) {
   let { productId } = useParams();
@@ -21,34 +21,12 @@ function SingleProduct(props) {
   };
 
   return (
-    <div style={{ marginLeft: "auto", marginRight: "auto", width: "90%" }}>
-      <div
-        style={{
-          display: "flex",
-          flexWrap: "wrap",
-          backgroundColor: "white",
-          height: "100vh",
-        }}
-      >
-        <div
-          style={{
-            display: "flex",
-            flex: "0.4",
-            alignItems: "center",
-            justifyContent: "center",
-          }}
-        >
+    <div className="singleProduct">
+      <div className="singleProduct__product">
+        <div className="singleProduct__image">
           <img style={{ objectFit: "contain" }} src={singleProduct.imageUrl} />
         </div>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            // alignItems: "center",
-            justifyContent: "center",
-            flex: "0.6",
-          }}
-        >
+        <div className="singleProduct__details">
           <h1>{singleProduct.productName}</h1>
           <div style={{ display: "flex" }}>
             {Array(singleProduct.rating)
