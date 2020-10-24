@@ -1,0 +1,96 @@
+{
+    "Mobile":[
+      {
+        "id": "adasfg234",
+        "productName": "Redmi Note 8 (Moonlight White, 64 GB)  (4 GB RAM)",
+        "rating": 4,
+        "price": 1,
+        "specifications": [
+          "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+          "16.0 cm (6.3 inch) Full HD+ Display",
+          "48MP + 8MP + 2MP + 2MP | 13MP Front Camera",
+          "4000 mAh Lithium Polymer Battery"
+        ],
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRK4s825tT12UNcDx2DWwsCbNn9e0Y35SIZdA&usqp=CAU",
+        "description": "Rear Fingerprint Scanner, Face Unlock, Dual App Support, QC 3.0 Quick Charging, 18W Fast Charging, Notification Light, Screen Mirror/Cast Support. Ambient Light Sensor, Proximity Sensor, E Compass, Accelerometer, Gyroscope",
+        "reviews": ["Best product", "Cool product"]
+      },
+      {
+        "id": "adbhe3534",
+        "productName": " K20 Pro (Carbon Black, 128 GB)  (6 GB RAM)",
+        "rating": 5,
+        "price": 3,
+        "specifications": [
+          "6 GB RAM | 128 GB ROM",
+          "16.23 cm (6.39 inch) Full HD+ Display",
+          "48MP + 13MP + 8MP | 20MP Front Camera",
+          "4000 mAh Li-polymer Battery"
+        ],
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyOAwtOJRjCuqvV7OGRXKUL8AyxZpwYsmd8A&usqp=CAU",
+        "description": "48MP - IMX586,1/2.0inch, 1.6micrometer, 6P, F1.75, FOV79, AF, OL, 13MP - S5K3L6 1/3inch, 1.12micrometer, 5P, F2.4, FOV124.8, FF, 8MP - OV8856 1/4inch, 1.12micrometer, 5P, F2.4, FOV44.5, AF, OL, Laser Focus + PDAF, Slow Motion Support - 960 fps",
+        "reviews": ["Best product", "Cool product"]
+      },
+      {
+        "id": "adbhe3534af",
+        "productName": "Redmi K20 Pro (Carbon Black, 128 GB)  (6 GB RAM)",
+        "rating": 5,
+        "price": 2,
+        "specifications": [
+          "6 GB RAM | 128 GB ROM",
+          "16.23 cm (6.39 inch) Full HD+ Display",
+          "48MP + 13MP + 8MP | 20MP Front Camera",
+          "4000 mAh Li-polymer Battery"
+        ],
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyOAwtOJRjCuqvV7OGRXKUL8AyxZpwYsmd8A&usqp=CAU",
+        "description": "48MP - IMX586,1/2.0inch, 1.6micrometer, 6P, F1.75, FOV79, AF, OL, 13MP - S5K3L6 1/3inch, 1.12micrometer, 5P, F2.4, FOV124.8, FF, 8MP - OV8856 1/4inch, 1.12micrometer, 5P, F2.4, FOV44.5, AF, OL, Laser Focus + PDAF, Slow Motion Support - 960 fps",
+        "reviews": ["Best product", "Cool product"]
+      }
+    ],
+    "TV": [
+      {
+        "id": "adasfg23sd4",
+        "productName": "Redmi TV(Moonlight White, 64 GB)  (4 GB RAM)",
+        "rating": 4,
+        "price": 11499,
+        "specifications": [
+          "4 GB RAM | 64 GB ROM | Expandable Upto 512 GB",
+          "16.0 cm (6.3 inch) Full HD+ Display",
+          "48MP + 8MP + 2MP + 2MP | 13MP Front Camera",
+          "4000 mAh Lithium Polymer Battery"
+        ],
+        "imageUrl": "https://rukminim1.flixcart.com/image/312/312/k9u8zgw0/television/c/m/e/mi-l43m5-an-original-imafrjtbdbnczaxk.jpeg?q=70 ",
+        "description": "Rear Fingerprint Scanner, Face Unlock, Dual App Support, QC 3.0 Quick Charging, 18W Fast Charging, Notification Light, Screen Mirror/Cast Support. Ambient Light Sensor, Proximity Sensor, E Compass, Accelerometer, Gyroscope",
+        "reviews": ["Best product", "Cool product"]
+      },
+      {
+        "id": "adbhewe3534",
+        "productName": "Redmi K2 TV Pro (Carbon Black, 128 GB)  (6 GB RAM)",
+        "rating": 5,
+        "price": 22000,
+        "specifications": [
+          "6 GB RAM | 128 GB ROM",
+          "16.23 cm (6.39 inch) Full HD+ Display",
+          "48MP + 13MP + 8MP | 20MP Front Camera",
+          "4000 mAh Li-polymer Battery"
+        ],
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyOAwtOJRjCuqvV7OGRXKUL8AyxZpwYsmd8A&usqp=CAU",
+        "description": "48MP - IMX586,1/2.0inch, 1.6micrometer, 6P, F1.75, FOV79, AF, OL, 13MP - S5K3L6 1/3inch, 1.12micrometer, 5P, F2.4, FOV124.8, FF, 8MP - OV8856 1/4inch, 1.12micrometer, 5P, F2.4, FOV44.5, AF, OL, Laser Focus + PDAF, Slow Motion Support - 960 fps",
+        "reviews": ["Best product", "Cool product"]
+      },
+      {
+        "id": "adbhe534",
+        "productName": "Redmi K20 TV Pro (Carbon Black, 128 GB)  (6 GB RAM)",
+        "rating": 5,
+        "price": 21000,
+        "specifications": [
+          "6 GB RAM | 128 GB ROM",
+          "16.23 cm (6.39 inch) Full HD+ Display",
+          "48MP + 13MP + 8MP | 20MP Front Camera",
+          "4000 mAh Li-polymer Battery"
+        ],
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTyOAwtOJRjCuqvV7OGRXKUL8AyxZpwYsmd8A&usqp=CAU",
+        "description": "48MP - IMX586,1/2.0inch, 1.6micrometer, 6P, F1.75, FOV79, AF, OL, 13MP - S5K3L6 1/3inch, 1.12micrometer, 5P, F2.4, FOV124.8, FF, 8MP - OV8856 1/4inch, 1.12micrometer, 5P, F2.4, FOV44.5, AF, OL, Laser Focus + PDAF, Slow Motion Support - 960 fps",
+        "reviews": ["Best product", "Cool product"]
+      }
+    ]
+}
