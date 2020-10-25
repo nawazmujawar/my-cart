@@ -1,6 +1,6 @@
 # MyCart - Shopping app
 
-Deployed app: []()
+Deployed app: [https://scalereal-mycart.netlify.app/](https://scalereal-mycart.netlify.app/)
 
 ## Setup Development
 

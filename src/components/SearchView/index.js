@@ -10,7 +10,7 @@ function SearchView() {
 
   const products = [];
   productsList.forEach((product) => {
-    let pattern = new RegExp(searchQuery);
+    let pattern = new RegExp(searchQuery, "ig");
     let res = pattern.test(product.productName);
 
     if (res) {
@@ -20,6 +20,7 @@ function SearchView() {
 
   return (
     <Container maxWidth="lg">
+      <h2>Search result for "{searchQuery}"</h2>
       <div
         style={{
           display: "flex",

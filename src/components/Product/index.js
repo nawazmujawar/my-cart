@@ -51,7 +51,7 @@ function Product(props) {
                     <p key={i}>⭐</p>
                   ))}
               </div>
-              <p>₹{product.price}</p>
+              <h2>₹{product.price}</h2>
               <Typography variant="body2" color="textSecondary" component="p">
                 {product.description}
               </Typography>
